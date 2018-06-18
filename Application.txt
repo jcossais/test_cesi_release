@@ -1,6 +1,11 @@
 Nouvelle application logicielle
 @mystos
 @crazycoconutt
+bug_#2
 @jcossais
 @vpoyard
 @tommy432
+@mabjic
+@thebliitzz
+
+
